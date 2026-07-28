@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "818472542164",
+    "project_id": "quanlyhocvu-f5867",
+    "storage_bucket": "quanlyhocvu-f5867.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:818472542164:android:78b451a2d9ec1a9eff4041",
+        "android_client_info": {
+          "package_name": "com.example.student_schedule"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWFRPz6tArHu0FnzKrkz_JlE5u5GmHeyE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

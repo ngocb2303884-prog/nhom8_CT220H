@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import '../models/subject.dart';
 import '../models/schedule.dart';
-import '../models/event.dart';
 import '../database/db_helper.dart';
 
 // ==========================================
